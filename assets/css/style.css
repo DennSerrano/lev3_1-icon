@@ -1,0 +1,36 @@
+*{
+    margin:0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+h1{
+text-align: center;
+color:#666;
+}
+ul{
+    text-align: center;
+    margin-top:8vh;
+}
+ul li{
+    list-style: none;
+display: inline-block;
+margin-right: 2vw;
+}
+ul li a i{
+    font-size: 60px;
+}
+ul li:nth-of-type(1) a i{
+color:#1877F2;
+}
+ul li:nth-of-type(2) a i{
+    color:#E4405F;
+}
+ul li:nth-of-type(3) a i{
+    color:#CD201F;
+}
+ul li:nth-of-type(4) a i{
+    color:#0A66C2;
+}
+ul li:nth-of-type(5) a i{
+    color:#25D366;
+}
